@@ -1,5 +1,7 @@
 # vue-project
 
+### Youtube tutorial explaining the appication is [here](https://youtu.be/6F5e4GCxAMc)
+
 ## Project setup
 ```
 npm install
